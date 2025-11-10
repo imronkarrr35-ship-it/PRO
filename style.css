@@ -1,0 +1,58 @@
+.pro{
+background-color: rgb(85, 106, 224);border: 3px solid;border-radius: 30px ;border-color: crimson;
+text-align: center;
+}
+.MEN{
+    color: crimson;
+}
+.amin{
+    color: green;
+}
+.sigma{
+    color: green;border: 3px solid;background-color: yellow;text-align: center;border-color: yellow;
+}
+.si{
+    text-align: center;color: green;background-color: yellow;
+}
+.SIUU{
+    color: green;
+}
+.uh{
+    color: green;
+}
+.banana{
+    color: rgb(248, 249, 253);background-color: cornflowerblue;width: 250px;height: 35px;
+    border-color: cornflowerblue;
+}
+.ahaha{
+    text-align: center;color: green;background-color: yellow;
+}
+.damingrr{
+    width: 1250PX;height: 40px;
+}
+.table,th,td{
+    border: 0.1px solid;text-align: center;
+
+
+    
+
+
+
+}
+td{
+    width: 250px;height: 40px;background-color: red;
+}
+th{
+    width: 1000px;height: 40px;background-color: black;
+}
+.daming{
+    color: white
+    ;
+}
+.Me{
+    background-color: green;
+}
+.damingg{
+    background-color: blue;
+}
+
